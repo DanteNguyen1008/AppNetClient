@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <declare-styleable name="RoundedImageView">
+        <attr name="corner_radius" format="dimension" />
+        <attr name="border_width" format="dimension" />
+        <attr name="border_color" format="color" />
+        <attr name="round_background" format="boolean" />
+        <attr name="is_oval" format="boolean" />
+        <attr name="android:scaleType" />
+    </declare-styleable>
+    <declare-styleable name="BadgeView">
+        <attr name="badgeBackgroundColor" format="color|reference" />
+    </declare-styleable>
+
+    <!-- For Menu -->
+    <declare-styleable name="MenuItem">
+        <attr name="menu_icon" format="integer" />
+        <attr name="menu_text" format="string" />
+        <attr name="menu_drop" format="boolean" />
+        <attr name="menu_background" format="reference" />
+        <attr name="menu_background_selector" format="reference" />
+        <attr name="menu_text_size" format="dimension" />
+        <attr name="menu_text_color" format="reference" />
+    </declare-styleable>
+    <declare-styleable name="ExpandablePanel">
+        <attr name="handle" format="reference" />
+        <attr name="content" format="reference" />
+        <attr name="collapsedHeight" format="dimension" />
+        <attr name="animationDuration" format="integer" />
+    </declare-styleable>
+    <declare-styleable name="Switcher">
+        <attr name="txtOn" format="string" />
+        <attr name="txtOff" format="string" />
+    </declare-styleable>
+
+</resources>

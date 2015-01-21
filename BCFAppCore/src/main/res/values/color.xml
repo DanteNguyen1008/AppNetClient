@@ -1,0 +1,42 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <color name="prediction_blue">#367cdb</color>
+    <color name="white">#ffffff</color>
+    <color name="black">#000000</color>
+    <color name="red">#ff0000 </color>
+    <color name="transparent">#00000000</color>
+    <color name="semitransparent">#77FFFFFF</color>
+    <color name="opacity_50">#80FFFFFF</color>
+    <color name="black_light">#191717</color>
+    <color name="gray_light">#b5b5b5</color>
+    <color name="blue_dark">#005c9c</color>
+    <color name="blue_light">#299FEC</color>
+    <color name="blue_menu">#39A9F0</color>
+    <color name="gray">#b8b8b8</color>
+    <color name="gray_line">#BCBCBC</color>
+    <color name="gray_border">#AEAEAE</color>
+
+    <drawable name="menu_dark">#2d2d2d</drawable>
+    <drawable name="menu_dark_hover">#181818</drawable>
+    <drawable name="menu_light">#414141</drawable>
+    <drawable name="menu_light_child">#5F5F5F</drawable>
+    <drawable name="semitransparent">#77FFFFFF</drawable>
+    <drawable name="transparent">#00000000</drawable>
+
+    <color name="cyan_text_color">#00b0f0</color>
+    <color name="organce_text_color">#f7941d</color>
+    <color name="dark_browne_text_color">#414042</color>
+    <color name="light_gray_bg_color">#f0f0f0</color>
+    <color name="cyan_alpha_color">#5700b0f0</color>
+    <color name="cyan_alpha_color_exam_ready">#9933c1f3</color>
+    <color name="dark_gray_menu_border">#454545</color>
+    <color name="gray_menu_bg_color">#2d2d2d</color>
+    <color name="contact_dark_text_color">#6D6E71</color>
+    <color name="pull_to_refresh_header_text_color">#555555</color>
+    <color name="line_dark_gray">#a8a7ab</color>
+    <color name="text_pink_win">#5e489a</color>
+    <color name="text_green_drawn">#27a60b</color>
+    <color name="text_dark_cyan_win">#588ab4</color>
+
+</resources>

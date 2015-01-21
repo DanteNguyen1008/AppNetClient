@@ -1,0 +1,38 @@
+<ScrollView xmlns:tools="http://schemas.android.com/tools"
+    xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:background="@color/gray_menu_bg_color" >
+
+    <LinearLayout
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:orientation="vertical" >
+
+        <com.bigcatfamility.application.widget.MenuItem
+            android:id="@+id/mnu_main_page"
+            style="@style/style_slide_menu_text"
+            app:menu_icon="@drawable/ic_help_grey600_48dp"
+            app:menu_text="@string/menu_main_page" />
+
+        <com.bigcatfamility.application.widget.MenuItem
+            android:id="@+id/mnu_helps"
+            style="@style/style_slide_menu_text"
+            app:menu_icon="@drawable/ic_help_grey600_48dp"
+            app:menu_text="@string/menu_help" />
+
+        <com.bigcatfamility.application.widget.MenuItem
+            android:id="@+id/mnu_information"
+            style="@style/style_slide_menu_text"
+            app:menu_icon="@drawable/ic_info_outline_grey600_48dp"
+            app:menu_text="@string/menu_information" />
+
+        <com.bigcatfamility.application.widget.MenuItem
+            android:id="@+id/mnu_rate_app"
+            style="@style/style_slide_menu_text"
+            app:menu_icon="@drawable/ic_rate_review_grey600_48dp"
+            app:menu_text="@string/menu_rate_app" />
+    </LinearLayout>
+
+</ScrollView>

@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/AppNetClient.iml" filepath="$PROJECT_DIR$/AppNetClient.iml" />
+      <module fileurl="file://$PROJECT_DIR$/BCFAppCore/BCFAppCore.iml" filepath="$PROJECT_DIR$/BCFAppCore/BCFAppCore.iml" />
+      <module fileurl="file://$PROJECT_DIR$/app/app.iml" filepath="$PROJECT_DIR$/app/app.iml" />
+      <module fileurl="file://$PROJECT_DIR$/bCFNetworkHandler/bCFNetworkHandler.iml" filepath="$PROJECT_DIR$/bCFNetworkHandler/bCFNetworkHandler.iml" />
+    </modules>
+  </component>
+</project>
+

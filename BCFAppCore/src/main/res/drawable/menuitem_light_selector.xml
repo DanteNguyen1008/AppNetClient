@@ -1,0 +1,8 @@
+ <selector xmlns:android="http://schemas.android.com/apk/res/android">
+	<item android:state_pressed="true"
+		android:drawable="@drawable/menu_light" /> <!-- pressed -->
+	<item android:state_focused="true"
+		android:drawable="@drawable/menu_light" /> <!-- focused -->
+	<item 
+		android:drawable="@drawable/bg_menuitem_repeat" /> <!-- default -->
+ </selector>

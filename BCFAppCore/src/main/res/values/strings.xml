@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="app_name">Application</string>
+    <string name="title_acitivity_splash">Splash</string>
+    <string name="loading">Loading</string>
+    <string name="title_test_page">Test Page Title</string>
+    <string name="first_time_loading_msg">Please wait a couple minutes for initialized content</string>
+    <string name="str_press_back_exit">Press back again to close this app</string>
+
+</resources>
